@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Idea Name
+
+# Eviction GPT
 
 Create a chatbot to assist tenants going through eviction, so they do not have to wait on hold to speak to an advocate.
 
